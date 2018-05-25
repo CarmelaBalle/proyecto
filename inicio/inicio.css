@@ -1,0 +1,29 @@
+p{
+    color: white; 
+}
+h1{
+    color: white;
+}
+
+.Balle{
+    color: black;
+    font-size: 25px;
+    text-align: justify;
+}
+.mol{
+    color: black;
+    font-size: 45px;
+}
+.BOL{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.BAL{
+    margin-bottom: 10%;
+    margin-right: 10%;
+}
+.history{
+    color: black;
+    font-size: 25px;
+    text-align: left;
+}
